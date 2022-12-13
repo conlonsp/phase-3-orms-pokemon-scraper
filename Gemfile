@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 
 # Scraping
-gem 'nokogiri'
+gem 'nokogiri', '~> 1.13', '>= 1.13.10'
 
 # Database
 gem 'sqlite3', '~>1.3.6'
